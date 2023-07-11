@@ -1,0 +1,88 @@
+h1
+{
+    color:rgb(244, 242, 242);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font size: xx-large;
+    font-weight: 1000;
+    font-style:cue:
+}
+
+body
+{
+    background-color:rgb(53, 50, 50)
+}
+
+a
+{
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+    color: rgb(233, 230, 230);
+    padding: 60px;
+
+}
+
+
+.header1
+{
+    width: 100%;
+   float:none;
+   height: 35px;
+
+}
+
+.header2
+{
+    width: 100%;
+   float:none;
+   height: 35px;
+
+}
+
+.slider
+{
+    width: 100%;
+    background-color: rgb(44, 44, 44);
+    float: left;
+}
+
+.header2
+{
+    width: 100%;
+   float: left;
+   height: 40px;
+}
+
+.content1 
+{
+    color:rgb(186, 185, 185);
+    font-size: 17pt;
+    text-align: center;
+}
+
+.content2 
+{
+    color:rgb(186, 185, 185);
+    font-size: 14pt;
+    text-align: center;
+}
+.content3 
+{
+    color:rgb(186, 185, 185);
+    font-size: 13pt;
+    text-align: center;
+}
+
+.content4
+{
+    color:rgb(186, 185, 185);
+    text-align: center;
+}
+
+.content5
+{
+    color:rgb(186, 185, 185);
+    font-size: 13pt;
+    text-align:justify
+    text=align:center
+}
